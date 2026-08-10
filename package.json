@@ -1,0 +1,28 @@
+{
+  "name": "labadia.sia",
+  "version": "1.0.0",
+  "description": "classroom activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy25-26"
+  ],
+  "homepage": "https://github.com/Babie25/labadia.sia0825#readme",
+  "bugs": {
+    "url": "https://github.com/Babie25/labadia.sia0825/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Babie25/labadia.sia0825.git"
+  },
+  "license": "ISC",
+  "author": "labadia,babie trisha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
